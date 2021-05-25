@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:phase-3-active-record-crud-operations-lab}/db/development.sqlite",
+            "name": "test",
+            "group": "ummm"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
